@@ -74,11 +74,3 @@ poetry run python src/exercicios/script3.py
 ├── .gitignore
 └── README.md
 ```
-
-## Contribuição
-
-Contribuições são bem-vindas! Por favor, sinta-se à vontade para abrir issues ou enviar pull requests.
-
-## Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
